@@ -13,4 +13,8 @@ We're building a lot of projects from robotics to games.
 
 All open source, some commercial.
 
+ * Website - [dataparty.xyz](https://dataparty.xyz)
+ * Social - [@dataparty](https://partyon.xyz/@dataparty)
+ * Support - [liberpay/dataparty](https://liberapay.com/dataparty)
+
 Party On 🤘🏿
