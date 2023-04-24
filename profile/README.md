@@ -14,7 +14,8 @@ We're building a lot of projects from robotics to games.
 All open source, some commercial.
 
  * Website - [dataparty.xyz](https://dataparty.xyz)
- * Social - <a rel="me" href="https://partyon.xyz/@dataparty">@dataparty</a>
- * Support - [liberpay/dataparty](https://liberapay.com/dataparty)
+ * Blog - [blog.dataparty.xyz](https://blog.dataparty.xyz)
+ * Support - [ko-fi/dataparty](https://ko-fi.com/dataparty)
+ * Chat - [discord](https://discord.gg/JrYQ3f4Pxz)
 
 Party On 🤘🏿
