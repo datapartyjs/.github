@@ -6,6 +6,7 @@ We're building a lot of projects from robotics to games. All open source, some c
 
  * Website - [dataparty.xyz](https://dataparty.xyz)
  * Blog - [blog.dataparty.xyz](https://blog.dataparty.xyz)
+ * Social - [partyon.xyz/@dataparty](https://partyon.xyz/@dataparty)
  * Chat - [discord](https://discord.gg/JrYQ3f4Pxz)
  * Videos - [youtube/@dataparty](https://www.youtube.com/@dataparty)
  * Support - [ko-fi/dataparty](https://ko-fi.com/dataparty)
